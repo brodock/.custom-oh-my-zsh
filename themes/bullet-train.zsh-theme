@@ -1,0 +1,1 @@
+../repos/bullet-train-theme/bullet-train.zsh-theme

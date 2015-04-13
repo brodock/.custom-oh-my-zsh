@@ -1,0 +1,6 @@
+[submodule "repos/powerline-theme"]
+	path = repos/powerline-theme
+	url = git@github.com:jeremyFreeAgent/oh-my-zsh-powerline-theme.git
+[submodule "repos/bullet-train-theme"]
+	path = repos/bullet-train-theme
+	url = git@github.com:caiogondim/bullet-train-oh-my-zsh-theme.git
